@@ -145,7 +145,7 @@ function createUnityInstance(t, n, d) {
     }
 
     try {
-        fetch("https://cdn.jsdelivr.net/gh/gn-math/assets@main/valid.json").then(response => {
+        fetch("https://cdn.statically.io/gh/gn-math/assets@main/valid.json").then(response => {
             response.json().then(data => {
                 const allowedHosts = data || [];
                 const currentHost = window.location.host;

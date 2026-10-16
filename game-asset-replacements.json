@@ -18,16 +18,16 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 1186,
     "sha256": "d0f54aef33f34fd123d1ebc048cf152e01294cb71809ce276e3e1304ba4e2830",
-    "source": "https://cdn.jsdelivr.net/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/UnityProgress.js",
+    "source": "https://cdn.statically.io/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/UnityProgress.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/d6a22f30dfb8801f3f355f085e3cf0a2556999169058a3e87b8c5b961525b4b0.asset"
   },
   "https://raw.githubusercontent.com/yrgen73/draw-cl/5cebc8634ca87bab6a76bf0ce2ef0fb99fa2548c/manifest.json": {
     "file": "assets/game-recovery/8ba951b8c108e68bdcb596ba9cc22e4ef7ede20333a76929ab317b465e90481a.asset",
     "type": "application/json; charset=utf-8",
-    "bytes": 1203,
-    "sha256": "7b7461203b84386a8670bd78fc19f0230253ff0418094c2da50327da18797cde",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@5cebc8634ca87bab6a76bf0ce2ef0fb99fa2548c/manifest.json",
+    "bytes": 1213,
+    "sha256": "2170e6c006ed74fc1846a3e023353f6f7c8fc3927b5b67dee6cf9008ed703cc6",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@5cebc8634ca87bab6a76bf0ce2ef0fb99fa2548c/manifest.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/8ba951b8c108e68bdcb596ba9cc22e4ef7ede20333a76929ab317b465e90481a.asset"
   },
@@ -36,7 +36,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 157128,
     "sha256": "09cf226e3d59b235f51dceec11eccd0cab4e415a132af33a2eaa3e5354deddd9",
-    "source": "https://cdn.jsdelivr.net/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/UnityLoader.js",
+    "source": "https://cdn.statically.io/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/UnityLoader.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/eceee4b31af987ec5d304a4dc69bdce6104eddaae243ce618e71fed622ea040a.asset"
   },
@@ -45,16 +45,16 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 114404,
     "sha256": "e6704366c0d31dc610c55755e55eb2951735c3d09859a1d77946e16c37a30ef9",
-    "source": "https://cdn.jsdelivr.net/gh/sasa24s/Sphere-compile@8d767525fe856bc189118f6463f4b2d024de64fd/network/min.js",
+    "source": "https://cdn.statically.io/gh/sasa24s/Sphere-compile@8d767525fe856bc189118f6463f4b2d024de64fd/network/min.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/c9cb88b828ed85af14a3f8a10a6fca5a9f42dd59869fea6b241a5f4a8bc6203f.asset"
   },
   "https://raw.githubusercontent.com/yrgen73/Jtrigger/026d22a3c5e67a8df14227c019dab86e8df507f3/manifest.json": {
     "file": "assets/game-recovery/dfc4fd5e3457d606e4914fb386cba41b1ee8906332fe0cf458542fe20abda24c.asset",
     "type": "application/json; charset=utf-8",
-    "bytes": 1215,
-    "sha256": "05a1c248998b01c03c90164bd0fa2b113153fcb686eed1e36a184fd50a5ef5f2",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@026d22a3c5e67a8df14227c019dab86e8df507f3/manifest.json",
+    "bytes": 1225,
+    "sha256": "e9c9548f040b4eedc5fa9957b179a6e5b1fff934d38654e50294d7e5d1915613",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@026d22a3c5e67a8df14227c019dab86e8df507f3/manifest.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/dfc4fd5e3457d606e4914fb386cba41b1ee8906332fe0cf458542fe20abda24c.asset"
   },
@@ -63,7 +63,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 201424,
     "sha256": "ab0fc0ecf0df1f49a1ccc9ba0ec193ee3c8f0b7d8cdafbe3bf9aa0d1f837fc40",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/egret.min_1b571385.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/egret.min_1b571385.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/d9b38e215e24fc63b3c031272741cc95f497f5489a42e7ca3b104bd2f6beab79.asset"
   },
@@ -72,7 +72,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 396873,
     "sha256": "7afbf04d9879922c15b290a213f0920dff936f99f2c7aa83cdfe62a48e02bb9b",
-    "source": "https://cdn.jsdelivr.net/gh/sasa24s/Sphere-compile@8d767525fe856bc189118f6463f4b2d024de64fd/network/carframework.js",
+    "source": "https://cdn.statically.io/gh/sasa24s/Sphere-compile@8d767525fe856bc189118f6463f4b2d024de64fd/network/carframework.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/70810d8f87870a7daa0a5970143f3469098862d40b3bceabd9243236d6adbe60.asset"
   },
@@ -81,7 +81,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 403,
     "sha256": "5384544631051a0cff4b9488a5eec428e3eed73d89e90dd24c053d8324ff42a2",
-    "source": "https://cdn.jsdelivr.net/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/build.json",
+    "source": "https://cdn.statically.io/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/build.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/92dc40b31ed4faafd1006f66350b55c083b57ec6257fdf1cc889faa00113e1ce.asset"
   },
@@ -90,7 +90,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 194800,
     "sha256": "2db1b177fac7153ec20d66554c8aa6ab531b35779eb729301919c4600a721df3",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/egret.min_d92caeca.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/egret.min_d92caeca.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/0b60d13073f3735741b71d20b6fdf139a33455bc247ea2a808cbddf95f57bd14.asset"
   },
@@ -99,7 +99,7 @@
     "type": "application/wasm",
     "bytes": 27079659,
     "sha256": "da52969a2b3b74ee86a22aa9a1fbe3f77a244d42e946e804a6ec0367d0de94fa",
-    "source": "https://cdn.jsdelivr.net/gh/sasa24s/Sphere-compile@8d767525fe856bc189118f6463f4b2d024de64fd/network/carwasm.js",
+    "source": "https://cdn.statically.io/gh/sasa24s/Sphere-compile@8d767525fe856bc189118f6463f4b2d024de64fd/network/carwasm.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/2f5a39ee4cba0d5690a548f8bda81a573ab285a2294ab860d52512241adcf58f.asset"
   },
@@ -108,7 +108,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 133255,
     "sha256": "963ddd21b08b73cb9e10cb729c3496c2654a27315aca59397e4a72688366f898",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/egret.web.min_401f9695.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/egret.web.min_401f9695.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/ec4b344de3fde5ae1444a2f78d394a0f89827e908378fe75dc5dc233c12b251b.asset"
   },
@@ -117,7 +117,7 @@
     "type": "application/vnd.unity",
     "bytes": 92163,
     "sha256": "acb7823759ed9bedd78fcee5deeddda38b16e5d0c1b2351e0930295f7ba95a28",
-    "source": "https://cdn.jsdelivr.net/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/BlockySnakes.wasm.framework.unityweb",
+    "source": "https://cdn.statically.io/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/BlockySnakes.wasm.framework.unityweb",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/c7ca541a08675b04b71b6d8ba41db08cc86afb286d6bfb00b35d6f1649c43d13.asset"
   },
@@ -126,7 +126,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 7966105,
     "sha256": "fa0d0bdf08428dee6bb272f989a7af666d60ff6198ffb5ef2b93cc9d8c45e62a",
-    "source": "https://cdn.jsdelivr.net/gh/sasa24s/Sphere-compile@8d767525fe856bc189118f6463f4b2d024de64fd/network/cardata.js",
+    "source": "https://cdn.statically.io/gh/sasa24s/Sphere-compile@8d767525fe856bc189118f6463f4b2d024de64fd/network/cardata.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/6c19a4f6575adc35b79cae88a61691505dc16e443a7e65c7c30918f39f1a87a3.asset"
   },
@@ -135,7 +135,7 @@
     "type": "application/vnd.unity",
     "bytes": 6592634,
     "sha256": "97f98227d2856c07bfc9a10e023a17fd6e724b5fa2f48032de9907b1e135532d",
-    "source": "https://cdn.jsdelivr.net/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/BlockySnakes.data.unityweb",
+    "source": "https://cdn.statically.io/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/BlockySnakes.data.unityweb",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/89cc8c820d19d96a055e5f4bc6dd04f070ceecc8fa28fb3fca5074396caa152e.asset"
   },
@@ -144,7 +144,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 113903,
     "sha256": "82232f7403b113af6208c0b181db7afd9bb796c49d7c39fa35ebf94b1dc7cce0",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/egret.web.min_e835c5d0.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/egret.web.min_e835c5d0.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/017ce1238344378d80a73978c9ea7990587e83b18302c49ade74390eb08b9f00.asset"
   },
@@ -153,7 +153,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 40395,
     "sha256": "44a0329fe96c0b793abd2340f0eb3415e3aa8b939f10fde718159bf723f975d9",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/game.min_16249d0f.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/game.min_16249d0f.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/5b732079f7f59f6846938506b7f024414bac8416506be6237fccdaaad7e7ba33.asset"
   },
@@ -162,7 +162,7 @@
     "type": "application/vnd.unity",
     "bytes": 4453870,
     "sha256": "bb60e8f004b97898a67e38650df564d7581292bfb818c8939d47a5f01b5cf156",
-    "source": "https://cdn.jsdelivr.net/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/BlockySnakes.wasm.code.unityweb",
+    "source": "https://cdn.statically.io/gh/malpig/HTML-Games-V2@c80f20e7b02c5a026c9fede3366477ff7efa628c/blocky-snakes/BlockySnakes.wasm.code.unityweb",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/04cea61c2b360f2adcfc5dd7fe892641d23628208a0e82550454be1fe5685e38.asset"
   },
@@ -171,7 +171,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 40360,
     "sha256": "b11fa8b9aa79bb483d47d0a251b4da1db35beb4d4559a8d1b3bdd0801740536d",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/game.min_8f561331.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/game.min_8f561331.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/cfe5ad6cee94680cb155081856fc50b59d88ca393ab9368b3851ee47c16fb1d9.asset"
   },
@@ -180,7 +180,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 12481,
     "sha256": "6cdc901fdb97af34c3dc1be4fb256d05f4ccd086982fafda40a0fdc90f8b9445",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/tween.min_6c5a88f9.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/tween.min_6c5a88f9.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/96fd65e97b5dd3d18d53a7c4ef5f98b2308bf764c2d21108f576847e969be437.asset"
   },
@@ -189,7 +189,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 12481,
     "sha256": "6cdc901fdb97af34c3dc1be4fb256d05f4ccd086982fafda40a0fdc90f8b9445",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/tween.min_6c5a88f9.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/tween.min_6c5a88f9.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7d22b71013b1ac206c992a9d8c264d72645e9e47f76658240987a3b229ff4665.asset"
   },
@@ -198,7 +198,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 28550,
     "sha256": "06911009bd741f3507a2626e83bf656ed9c657cc807bd12e3b6958f5e2d50252",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/assetsmanager.min_52b82f60.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/assetsmanager.min_52b82f60.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/c0cbfe7160613222382c8022c6e8020c8e4ad838b5d96ff2f7c1555f30da2a4a.asset"
   },
@@ -207,7 +207,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 27000,
     "sha256": "b5317f1ea08fd6b885c8561338bd68413b5f71d47bc498acabdc27ba3a4d8d56",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/assetsmanager.min_77c2fdfe.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/assetsmanager.min_77c2fdfe.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/9a71decacbed1c6373ece6627d97b8734e914f0f119d70be0402e324b0d8d82d.asset"
   },
@@ -216,7 +216,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 6474,
     "sha256": "93406fd261ebbac19606bcf419c0915fffd36b0820e71e21785c3fe870b3b54a",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/promise.min_83a6a5d.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/promise.min_83a6a5d.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/0f31f6971f524e9d548c755f3e98b1dd7df6b7d73bcd0afbd0f3f2eb8d05e641.asset"
   },
@@ -225,7 +225,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 15057,
     "sha256": "9f7bacd05276f7d79e78eebeed41adfb83c7cd0f3b4dc701fa5fd0ed0d21739a",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/particle.min_27fe451d.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/particle.min_27fe451d.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/f73a613defbd7ea2c19a56d392a237d8f0674ca7c4d5d70cf723e34dfaeef927.asset"
   },
@@ -234,7 +234,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 6474,
     "sha256": "93406fd261ebbac19606bcf419c0915fffd36b0820e71e21785c3fe870b3b54a",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/promise.min_83a6a5d.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/promise.min_83a6a5d.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/995b120db4f67160dc516c0de0ed2e5ae4bfd4b042956d6b6a397cab9e4ae954.asset"
   },
@@ -243,7 +243,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 15057,
     "sha256": "9f7bacd05276f7d79e78eebeed41adfb83c7cd0f3b4dc701fa5fd0ed0d21739a",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/particle.min_27fe451d.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/particle.min_27fe451d.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/5b4e6c2484501f629c8294d9f8a4b5fdd18c0cf664c5d55d12f76d12e847bd86.asset"
   },
@@ -252,7 +252,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 237811,
     "sha256": "3532312d2f9dc9c422cad395a82f21e2daf10d19c49b20a82b98fd862488a0a2",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/Box2dweb.min_bed73707.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/Box2dweb.min_bed73707.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/a8578d697c15dd897ea3756ed6c4db6c1e7c221e8058edc8de913270e77c198e.asset"
   },
@@ -261,7 +261,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 236938,
     "sha256": "00b79b213460fba0d8045f7042817282a41551fa4e5f0ac18e0c5a47fbd8d8e3",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/Box2dweb.min_cd7b197d.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/Box2dweb.min_cd7b197d.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/2f8146f84967a9527daca06b5a569dbd61518b5b3ca15349042e495dabbd527f.asset"
   },
@@ -270,7 +270,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 138372,
     "sha256": "6f43718f6525484a912b04598d0dadbf48d6598776a3e855476341187d632ba6",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/vconsole.min_314a0209.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@8733508d84acdb41f47f102753e570de9f0a9971/js/vconsole.min_314a0209.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/3ae7b55352ccec6a4c713b9e4894c2ff5d8dd9ff219b4c7cdd2b3a7c3934b16b.asset"
   },
@@ -279,25 +279,25 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 78365,
     "sha256": "5f454a9df2b69796f5c30ab07751cae8b8e3e3f0fe926b94e8b1a6a68d68d902",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/vconsole.min_314a0209.js",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@050cca2d3bdad0e560f178b63ea2248198dff907/js/vconsole.min_314a0209.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/16e231bcce2f20c166db63616211f3088829a19a28c3908c93be311da296ad6e.asset"
   },
   "https://raw.githubusercontent.com/yrgen73/draw-cl/717b46cbc2a375190d2ae87772703e69124338a9/js/main.min_c7454720.js": {
     "file": "assets/game-recovery/d34bb436c9148f03e49926b65b4a7599d226e39129cf277fe962d933b9c765a6.asset",
     "type": "application/javascript; charset=utf-8",
-    "bytes": 371971,
-    "sha256": "6b81dec765de1a998677760f5fdd641d04406e1344353dd547ebb241616a2457",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@717b46cbc2a375190d2ae87772703e69124338a9/js/main.min_c7454720.js",
+    "bytes": 371972,
+    "sha256": "f31dad3bd78698fd74b9a409c59660d999d9f8f36ab5d22954ea0635d4be406b",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@717b46cbc2a375190d2ae87772703e69124338a9/js/main.min_c7454720.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/d34bb436c9148f03e49926b65b4a7599d226e39129cf277fe962d933b9c765a6.asset"
   },
   "https://raw.githubusercontent.com/yrgen73/Jtrigger/a916afc01e9a6e489c56f83af1c79073ae9336f6/js/3main.min_31cdbd8e.js": {
     "file": "assets/game-recovery/4efc7ef358e9f0ec388023c586b01f0918e889423f99985070f04fa8513cde4d.asset",
     "type": "application/javascript; charset=utf-8",
-    "bytes": 323103,
-    "sha256": "7a03a5b4ecd9fdd7a72b8bbd58bb5a95474878ce0671c0dfe74a5cc701f53048",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@a916afc01e9a6e489c56f83af1c79073ae9336f6/js/3main.min_31cdbd8e.js",
+    "bytes": 323104,
+    "sha256": "d8d9eb2c37978ce06103f8742c2b11dd36c6d1d69d9da57cc70116dcfac5db67",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@a916afc01e9a6e489c56f83af1c79073ae9336f6/js/3main.min_31cdbd8e.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/4efc7ef358e9f0ec388023c586b01f0918e889423f99985070f04fa8513cde4d.asset"
   },
@@ -306,16 +306,16 @@
     "type": "application/json; charset=utf-8",
     "bytes": 5827,
     "sha256": "b94dfddb834775028cae7a864af6154e779449dc0790dc471c830b41b823fc59",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/default.res.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/default.res.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/0c457b6698c130cdcc857c9ebff93cd170f96f960303f53809dc81796085d589.asset"
   },
   "https://raw.githubusercontent.com/yrgen73/Jtrigger/462c576ba6026ba828c675859c838ed3d966fc66/resource/2default.res.json": {
     "file": "assets/game-recovery/ad972d8ee333f422caa192edaed4fe6387d1a63b6aa690c29949f3eaa30b383e.asset",
     "type": "application/json; charset=utf-8",
-    "bytes": 9473,
-    "sha256": "ba282e1b2b9b0d655f85361b2d36c1d55dbcdeb432fd65b44eac071bdf1997a3",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@462c576ba6026ba828c675859c838ed3d966fc66/resource/2default.res.json",
+    "bytes": 9503,
+    "sha256": "2ac60cca68c1e883a58b590d9d1a0a4372565c753ea61daa3acd6b312cde953e",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@462c576ba6026ba828c675859c838ed3d966fc66/resource/2default.res.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/ad972d8ee333f422caa192edaed4fe6387d1a63b6aa690c29949f3eaa30b383e.asset"
   },
@@ -324,7 +324,7 @@
     "type": "image/png",
     "bytes": 3456,
     "sha256": "4bb92ef90d9a14597b4d854f315c5166149404ce5ef170beab13d0116b7ad41b",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/loading2.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/loading2.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/a999c966b5233550a3ec6a861b7e6b7974106a02706f65a5e6d8c50fef78c583.asset"
   },
@@ -333,7 +333,7 @@
     "type": "image/png",
     "bytes": 24314,
     "sha256": "5a4494f3b502291f34d98c072c2f5375360a450b39f79256fe3574f587d0bb75",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/loading1.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/loading1.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/16e0f7e0c00b6a0885f4e78108a16ecb9bc77bb503cdfddb6da3cac2264eabfe.asset"
   },
@@ -342,7 +342,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 231,
     "sha256": "65e46bdc6db834f253f21e75099fb3ceff8cf4dd878a85f4ed1b184512a54b0d",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/config/description.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/config/description.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/df83c8020a992985a970fde4b8d85dac65451f9f85df2a1e67e62965b337ae69.asset"
   },
@@ -351,7 +351,7 @@
     "type": "image/jpeg",
     "bytes": 39777,
     "sha256": "da23551fd9138ca184e8b37528a8eb8879ff74facd396c69d66bdefafc2af97c",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/share2.jpg",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/share2.jpg",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7c3437d19cb01cc203a5d2b7dcfd21e6d46e7030e29b3e9f7c2f52ad70265490.asset"
   },
@@ -360,7 +360,7 @@
     "type": "image/png",
     "bytes": 3456,
     "sha256": "4bb92ef90d9a14597b4d854f315c5166149404ce5ef170beab13d0116b7ad41b",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/loading2.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/loading2.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/114c73b71d5974ba24e3772b6bce6dc312d85f08cfc2ba5cc87baeb30eaec7f2.asset"
   },
@@ -369,7 +369,7 @@
     "type": "image/jpeg",
     "bytes": 25092,
     "sha256": "8444aa1337ddd209d30bae26bb7c4482c72e6368c027081706938ce435d76e7a",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/share3.jpg",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/share3.jpg",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7e358448afedb7c32c8ba8c58650aba5356a5c1ec6679f46be2e19b4cfac75dc.asset"
   },
@@ -378,7 +378,7 @@
     "type": "image/png",
     "bytes": 3163,
     "sha256": "e81c711576b44de57cee1f40b2234dc2e39e5357ebc757018d2915c50f14efa2",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/loading1.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/loading1.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/0a131fe3c63ffebce37b7c4b532ef83d161d1b2486da698a248180f8fa078064.asset"
   },
@@ -387,7 +387,7 @@
     "type": "image/jpeg",
     "bytes": 12539,
     "sha256": "1c388e4fdf6e56536c7e7bc2c517dc59130c186cf095434d107160fe8ada9b7f",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/share1.jpg",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/share1.jpg",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/9f2137e38d546330dd1cc2a6d341db39407b7fcefa75430e1cf2b5e72997cfca.asset"
   },
@@ -396,7 +396,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1139,
     "sha256": "6c0bd4712d386b963cb538dd6c0d51f556fdd6d41da22467b03b292ea0a50824",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/system.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/system.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/a3d41b1deed854de8b73661ffaf3645da019cfea62ea9e0d5ea421eff6b013d4.asset"
   },
@@ -405,7 +405,7 @@
     "type": "image/jpeg",
     "bytes": 21974,
     "sha256": "224e84af83125c0384297f5c8b5524218d9046431da999060fdad67a5d760b96",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/share3.jpg",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/share3.jpg",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/1613a8213e33df75b79c7153d3be52ae251f1d9b2175aa21d088497b4910059f.asset"
   },
@@ -414,7 +414,7 @@
     "type": "image/jpeg",
     "bytes": 26762,
     "sha256": "a68ebdc2bdadcd4c326562c76136cf1162265b987ecca010ec2041a450c06b63",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/share2.jpg",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/share2.jpg",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/3cd0e66af84e6e1c49c6ce3362b64d565ac1f0ec9ce3208db033f658d9c135d0.asset"
   },
@@ -423,7 +423,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 231,
     "sha256": "65e46bdc6db834f253f21e75099fb3ceff8cf4dd878a85f4ed1b184512a54b0d",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/config/description.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/config/description.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7adca8c3dec3646be9d42e918c3c7a2088c70fdc9a8b42b186ea3911addce849.asset"
   },
@@ -432,7 +432,7 @@
     "type": "application/octet-stream",
     "bytes": 1099,
     "sha256": "34d26f482af905ceccaca5fc4be4013440f80ca85ddbdc1d74f572275971c795",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/numimage.fnt",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/numimage.fnt",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/05b1fa75a9ec80ddda39d252996f4d7c3b2dee75fd1f53b15826a0c8845910a6.asset"
   },
@@ -441,7 +441,7 @@
     "type": "image/jpeg",
     "bytes": 23255,
     "sha256": "bbcc7ebfb739299b137d61b4dae38deda717b754e2a92d50f8918291de79e326",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/share1.jpg",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/share1.jpg",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7dbb6cf60b7eff8c0f89903bc45344b582e92251565b1e698aa5f56c3f1d24eb.asset"
   },
@@ -450,7 +450,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1150,
     "sha256": "1b9d142baeb0162a53e0503a757da784839e57869ddc2bf2f0b9c5418e4407d3",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/system.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/system.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/124fc67b978b134c96aeb162463d29735dcae919444fd54e4b3a73da00fe07a6.asset"
   },
@@ -459,7 +459,7 @@
     "type": "image/png",
     "bytes": 15232,
     "sha256": "d2c7affbefb9051a4e62a353051f78acd40b86218f98d685d2b8bc4fbe670882",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/numimage.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/numimage.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/6a8c143f6b0e60056dc8617e7e69d500081cce92349479dfe8244334a00f020e.asset"
   },
@@ -468,7 +468,7 @@
     "type": "image/png",
     "bytes": 31653,
     "sha256": "04de5e21d5f49682a9e6c07d1526e6d8c499a7362796863f20d5a6ba0b90a0f6",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/system.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/system/system.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/5330bfde87b6c744c4319e3e8091e88fa6bf285dc80d6bdeeed055c2771c36dc.asset"
   },
@@ -477,7 +477,7 @@
     "type": "application/octet-stream",
     "bytes": 1158,
     "sha256": "014c4d6293f5a9722387c2eb0fb68c8eecaf7678893f9d8715203f8a9b60180d",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/numimage.fnt",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/numimage.fnt",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/153b01061fa6afc43195b5561e3fee5a71331f5a1df6930b8d620ec830349ef1.asset"
   },
@@ -486,7 +486,7 @@
     "type": "image/png",
     "bytes": 6037,
     "sha256": "c1dc72708ce7046b0fec0718e13fb8781f8678ba6442c425b3675457b50c6b1b",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/numimage.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/numimage.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/fa4f981ec9433addd3210da8f55e45a8158bc1772fdfb39894a30d68a498bf8e.asset"
   },
@@ -495,7 +495,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1110,
     "sha256": "0bd9ae4c59114bed2d971fc04443b724bdf58af4f417f5d77c3215d954ee38bf",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/particle/texiaofire.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/particle/texiaofire.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/e90c4fd2b218e8ccf23ab381cc5d275e68b20488998776dda92331e9f02bae6c.asset"
   },
@@ -504,7 +504,7 @@
     "type": "image/png",
     "bytes": 31653,
     "sha256": "04de5e21d5f49682a9e6c07d1526e6d8c499a7362796863f20d5a6ba0b90a0f6",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/system.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/system/system.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/84ee0f183a754c072769172696d0a8446d9c8699aed18c16ae3da94bfb490fd1.asset"
   },
@@ -513,7 +513,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1115,
     "sha256": "6e5fdce078b8434972154198fa61ae3e654b710aacce0f39d1de883a4794e73c",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/particle/texiaorun.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/particle/texiaorun.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/6ebb02cdd8c0bbe45e13e1ad9226667083520600fcb59204ef5df5192aa29f58.asset"
   },
@@ -522,7 +522,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1121,
     "sha256": "935a73bd1a653c2b554a0abf99de2af947cea467ab82ad9dc1f6598c53b04a8b",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/particle/texiaowater.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/particle/texiaowater.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/473c07145bf28532eef35f1baaf5f194c45708ddb726f9900721b8b605ee41c9.asset"
   },
@@ -531,7 +531,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1075,
     "sha256": "48181021bd0120143941b6e1443208970d84bd9fcf9dfeb14262de1416f41c84",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiaobg.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiaobg.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/45544127879cee249204805b1a0610f789c43b016d50adecff728d03a4eb38e8.asset"
   },
@@ -540,7 +540,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1116,
     "sha256": "4f904db235dd24df48fd816ac9057b68c64e4395a263baf529fa2861df442e8e",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/particle/texiaoxue.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/particle/texiaoxue.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/da4b549532fd9d77439be36fd9c442c14ff95880cd7ed8d3d413f5de0730eb46.asset"
   },
@@ -549,7 +549,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1070,
     "sha256": "9d9f1cf5d92d96d1d2df28528784cf30817d6e6b6d1310c1470f6d09e23fbf8c",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiao1.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiao1.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/07f468c29fcc580bacdcf301faeeea8338442ce8e3f9cd9a981ec9ba8d921450.asset"
   },
@@ -558,7 +558,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1078,
     "sha256": "5f831a0b69cc6ad280d1d6b8eaa0abc5ad6747e537b74a7794d1cefa434970c8",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiaonode.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiaonode.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/00ef73cc9578d628324d599098aca3b9499eafd43304b18fa4b333c17ec6b823.asset"
   },
@@ -567,7 +567,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1082,
     "sha256": "673627207c7a15db99a2bc9c7a4422b26afd8595aae9820e894436727638cf44",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiaoover.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiaoover.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/e8b5750aea4eb0fb31d4416f61493baf296a641008c899ab1e269483862c297b.asset"
   },
@@ -576,7 +576,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 668,
     "sha256": "c968858192e7790ed91622f63bc886b2903edb5bec8080096306900acb93368b",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/particle.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/particle.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/84871170e96a2944728bc7db26be7168e6f2bc2a2beb31d615b3c2d2cbc55ea9.asset"
   },
@@ -585,7 +585,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 1064,
     "sha256": "a352e1ddc5a26191709d4c732107321ef5a59f52ee43781e8efbda983cf0fa60",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiaospeed.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/particle/texiaospeed.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/f9e26baaaecf5da6b43b7f5fe8ac41c5a2aba146ab297254e817697aec10dd5e.asset"
   },
@@ -594,7 +594,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 6820,
     "sha256": "59af383d07e7d8420f89fbb562ea127b376031b1351c6d8d5b675d2fa98ee37d",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/gameall1.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/gameall1.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7406788f38f131094b1734da79b58f35be8f7bcec44fc9dc33fb23ca889a2edf.asset"
   },
@@ -603,7 +603,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 16344,
     "sha256": "db8747b6cefb3a5b09e75c5520a2162ebe4a6f14c07461b45f61137a1e969a08",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/gameall2.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/gameall2.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7584ed7b513801ac0c46eb445b9ab340cf3a0bb0ebfe4d0c3cdcb83874d0859b.asset"
   },
@@ -612,7 +612,7 @@
     "type": "application/json; charset=utf-8",
     "bytes": 11039,
     "sha256": "43511dbc655261b1f87df5053f2d80b4d6e0ecfb23112ed15270095c8547e949",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/gameall.json",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/gameall.json",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/ed7b673785ccceaa646591bab1653196865502d43d39bb1a8ede574227a08986.asset"
   },
@@ -621,7 +621,7 @@
     "type": "image/png",
     "bytes": 2797,
     "sha256": "75c3531a477f5448938d8479a266557d23664ca68f09e410a6dd2c3993252eb0",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/particle.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/particle.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/12ac6b594ac5c4af08462123fdc23bb67f4fc2b8fee204bdacd29f583ca9b827.asset"
   },
@@ -630,7 +630,7 @@
     "type": "image/png",
     "bytes": 111214,
     "sha256": "dc27b0016c7c2989097e682f3a6dcf07701c6974db18ec6349e25a0fc3c2a43b",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/gameall1.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/gameall1.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/de459e2a3975a67f3a3359f2d9773f8c4b0766bba4330423dbacd10b80a23db1.asset"
   },
@@ -639,7 +639,7 @@
     "type": "image/png",
     "bytes": 268468,
     "sha256": "11851aa528ab44325e843a53bdd819da34986a35a3202b0375b825600b89f562",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/gameall2.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/Jtrigger@fd7a1549180a024ca286a8bcb3e9c645b198b0b6/resource/assets/image/gameall2.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/0e294139a8445f7c27ef3f5b417a612452d36b9aa21be7f68ec5608d2bc0ae99.asset"
   },
@@ -648,7 +648,7 @@
     "type": "image/png",
     "bytes": 257985,
     "sha256": "c66330a83b2bf5497cb10097535505d8aacc9e6c8a262817e8ed28f322e1d4de",
-    "source": "https://cdn.jsdelivr.net/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/gameall.png",
+    "source": "https://cdn.statically.io/gh/yrgen73/draw-cl@aa45fa12c448ea20edbd47cc3672cca209a8976d/resource/assets/image/gameall.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/f6ecebad5448c6779de6bfbb46ad21514ad1105e8d2110e049cf13a5f69215a3.asset"
   },
@@ -657,7 +657,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 13299047,
     "sha256": "74d5c31169f775a12f93fbaecc504ff3a2efe7e8287c05f061c8e128f027a3bf",
-    "source": "https://cdn.jsdelivr.net/gh/lonya-k/aws@8e4931429a9c08b542c8def752b11a412dfef6b2/eks_cicd/csrd.js",
+    "source": "https://cdn.statically.io/gh/lonya-k/aws@8e4931429a9c08b542c8def752b11a412dfef6b2/eks_cicd/csrd.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/d0eefdaa51919bca07992dcf4517563d55de6649c4e37e1a510c97955bcc826f.asset"
   },
@@ -666,7 +666,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 10754831,
     "sha256": "d525ebffaeb3167ba5445259e492a793dfeee53a6455ca2e220adb22fb7d6efc",
-    "source": "https://cdn.jsdelivr.net/gh/lonya-k/aws@8e4931429a9c08b542c8def752b11a412dfef6b2/eks_cicd/csrw.js",
+    "source": "https://cdn.statically.io/gh/lonya-k/aws@8e4931429a9c08b542c8def752b11a412dfef6b2/eks_cicd/csrw.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/6b2ff93f707b503259c508e86cf0a4435801ef9bf14f1d4f59070b78d2d04c67.asset"
   },
@@ -675,25 +675,25 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 12169805,
     "sha256": "373e3d7088d6a55eac379ab54a1fa13fbcc63b481b87bf4aee8c2d07d7d3b641",
-    "source": "https://cdn.jsdelivr.net/gh/bavlin-san7990/react@a2f035b519b99dbc2c69f174cf9788b56cb36c32/src/br2.data.js",
+    "source": "https://cdn.statically.io/gh/bavlin-san7990/react@a2f035b519b99dbc2c69f174cf9788b56cb36c32/src/br2.data.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/ed22933e65089e2af00f3b099d39716594d9edd626c8b91427fc7575f811d8b3.asset"
   },
   "https://raw.githubusercontent.com/bobydob/JSEngine/4c04e7fb85008b3d23ba8848826ba2c0a859fa4f/build/bts-sans/c2.js": {
     "file": "assets/game-recovery/5e1f8e36fc992c433aa58c465cbff65db2ea7430459b334516469b72352228f5.asset",
     "type": "application/javascript; charset=utf-8",
-    "bytes": 235205,
-    "sha256": "43f28220148e7da2cbb3d4def0e91e309fe9ec3e41d06e993b06e2ef814000d0",
-    "source": "https://cdn.jsdelivr.net/gh/bobydob/JSEngine@4c04e7fb85008b3d23ba8848826ba2c0a859fa4f/build/bts-sans/c2.js",
+    "bytes": 234731,
+    "sha256": "a5b501eda919be05bfb6d8b7be415ec9f32c66c98637ad9183eac9d5db64f7c8",
+    "source": "https://cdn.statically.io/gh/bobydob/JSEngine@4c04e7fb85008b3d23ba8848826ba2c0a859fa4f/build/bts-sans/c2.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/5e1f8e36fc992c433aa58c465cbff65db2ea7430459b334516469b72352228f5.asset"
   },
   "https://raw.githubusercontent.com/bobydob/JSEngine/c60c03a6510017d9c6cbb8e6816512b06d214ac8/build/bts-sans/data.js": {
     "file": "assets/game-recovery/92aa259c6f64e88467fbdb1f02cc735f133eb29b8306f2f621bcc90c7b98e647.asset",
     "type": "application/javascript; charset=utf-8",
-    "bytes": 254500,
-    "sha256": "ffed26a5be22e666c2845d73a7efc4c4ce38392b0863b4796a53ca2e853a3be3",
-    "source": "https://cdn.jsdelivr.net/gh/bobydob/JSEngine@c60c03a6510017d9c6cbb8e6816512b06d214ac8/build/bts-sans/data.js",
+    "bytes": 254657,
+    "sha256": "af678f8df41fd45fb819117da5845aacceb38c1d6bd506bf471bd8756bda7540",
+    "source": "https://cdn.statically.io/gh/bobydob/JSEngine@c60c03a6510017d9c6cbb8e6816512b06d214ac8/build/bts-sans/data.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/92aa259c6f64e88467fbdb1f02cc735f133eb29b8306f2f621bcc90c7b98e647.asset"
   },
@@ -702,7 +702,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 110942,
     "sha256": "c4c5de926b35e3b951aa3dd4fe0eb11729da04266d9d18fa4d71001cfbc74bf2",
-    "source": "https://cdn.jsdelivr.net/gh/fedosyamamontova/httplibrary@8fe6115615b43b568799e1ed0c488b79f42d6a18/src/main/java/com/github/kevinsawicki/http/b0ba270e6a29211019a99342b797af52.js",
+    "source": "https://cdn.statically.io/gh/fedosyamamontova/httplibrary@8fe6115615b43b568799e1ed0c488b79f42d6a18/src/main/java/com/github/kevinsawicki/http/b0ba270e6a29211019a99342b797af52.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/17c991ddf42c1fdd737b791f41ada82cdd5ded10d2db43593acb188142626c30.asset"
   },
@@ -711,7 +711,7 @@
     "type": "application/vnd.unity",
     "bytes": 100306,
     "sha256": "8c69626e5312165da4f8cc48c2face8be51a783ace6619f9baf41467c246bca4",
-    "source": "https://cdn.jsdelivr.net/gh/fedosyamamontova/httplibrary@8fe6115615b43b568799e1ed0c488b79f42d6a18/src/main/java/com/github/kevinsawicki/http/b0f36479ff927d2218e80f647cdffd93.js.unityweb",
+    "source": "https://cdn.statically.io/gh/fedosyamamontova/httplibrary@8fe6115615b43b568799e1ed0c488b79f42d6a18/src/main/java/com/github/kevinsawicki/http/b0f36479ff927d2218e80f647cdffd93.js.unityweb",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/3ada8bba5a5f0ae2711d1a24f3cd6f9326e53648e54e0f961e7b8e85c50576e7.asset"
   },
@@ -720,7 +720,7 @@
     "type": "application/vnd.unity",
     "bytes": 1759279,
     "sha256": "15f38343c0d7a71bde605fd0b85bfd2c1e0ab583fbf0835a37e342412a87f4bf",
-    "source": "https://cdn.jsdelivr.net/gh/fedosyamamontova/httplibrary@8fe6115615b43b568799e1ed0c488b79f42d6a18/src/main/java/com/github/kevinsawicki/http/4858d9a4114c0990198ad297b332e984.data.unityweb",
+    "source": "https://cdn.statically.io/gh/fedosyamamontova/httplibrary@8fe6115615b43b568799e1ed0c488b79f42d6a18/src/main/java/com/github/kevinsawicki/http/4858d9a4114c0990198ad297b332e984.data.unityweb",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/ff5bb4c30a9136d332ee978ac2086d5b9f75bedfb6bf303411de4048689c3436.asset"
   },
@@ -729,7 +729,7 @@
     "type": "application/vnd.unity",
     "bytes": 4446433,
     "sha256": "b373af3a380a745d8f54497fba2adafc7bfd534ec09e0196d2177a3e187855ac",
-    "source": "https://cdn.jsdelivr.net/gh/fedosyamamontova/httplibrary@8fe6115615b43b568799e1ed0c488b79f42d6a18/src/main/java/com/github/kevinsawicki/http/7e2da19953030ead73bcedf2fd8c2f70.wasm.unityweb",
+    "source": "https://cdn.statically.io/gh/fedosyamamontova/httplibrary@8fe6115615b43b568799e1ed0c488b79f42d6a18/src/main/java/com/github/kevinsawicki/http/7e2da19953030ead73bcedf2fd8c2f70.wasm.unityweb",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/abfe2ccc0ff7938459a0044fbe1ab9c366287f21345f2423183343a7b76f93a9.asset"
   },
@@ -738,7 +738,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 316829,
     "sha256": "029d378d05be8832b30d9d911bccc7a06b9b0d2c03342f6bf98e1e5779ac099f",
-    "source": "https://cdn.jsdelivr.net/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/data.js",
+    "source": "https://cdn.statically.io/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/data.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/b50b08a325c68efd65eb4cb233ea8d0b8768d31824506d2e7f67efa6cb17bccb.asset"
   },
@@ -747,7 +747,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 106512,
     "sha256": "d572dfe809ad0194cef8c08f326fed72236690ae48f99b96b0d4841115ce75f4",
-    "source": "https://cdn.jsdelivr.net/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/sd.loader.js",
+    "source": "https://cdn.statically.io/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/sd.loader.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/62cc040211f731afcfe9e84df1fc19436d52834e0e9335711468e05726ebd506.asset"
   },
@@ -756,7 +756,7 @@
     "type": "image/png",
     "bytes": 133,
     "sha256": "56367b3592d4f245a60806c24126ec2497154c6b51dd98e9264c0eacd73ab16b",
-    "source": "https://cdn.jsdelivr.net/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.png",
+    "source": "https://cdn.statically.io/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.png",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/32fbdcb38fa93da56d7718e30f85b56575f19f83ac056bcc58278fde9067da7b.asset"
   },
@@ -765,7 +765,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 9732,
     "sha256": "0bfe5b99af38ee524da2211adb57f36de8a3d4b31eff221d350b33c89bcfcb8e",
-    "source": "https://cdn.jsdelivr.net/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/static.js",
+    "source": "https://cdn.statically.io/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/static.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/fd3dfec0f8815e4b5acff095be92b73336bb2d4d3ca39e3735e7f329aa18b08e.asset"
   },
@@ -774,7 +774,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 417584,
     "sha256": "db372e280cf05625deb41c1aab416221c11353b7503cca10da7c5271f499b427",
-    "source": "https://cdn.jsdelivr.net/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/sd.js",
+    "source": "https://cdn.statically.io/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/sd.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/83fca1610224b76a9845b72dbe0044cbbda21e2e95f719dca7d48cbc31ff2961.asset"
   },
@@ -783,7 +783,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 4001244,
     "sha256": "b8b79d4b4c40398859791f694c6bc576f3d7a699b991d548690291fcd29ce302",
-    "source": "https://cdn.jsdelivr.net/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.js",
+    "source": "https://cdn.statically.io/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7fbd11c4ba02b0b2b6c027150298dee2d92583088d27d8f309950f0cae87b9df.asset"
   },
@@ -792,7 +792,7 @@
     "type": "application/javascript; charset=utf-8",
     "bytes": 16207597,
     "sha256": "e50ff0db8e1a0a22ebaf1f10df9c392f1353a74e3fd3be6c06b58f17e2fce429",
-    "source": "https://cdn.jsdelivr.net/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/sd.data.js",
+    "source": "https://cdn.statically.io/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/sd.data.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/92feace0f9b379ffd117e0d4b6f9f9faf4de1a454b9584c027ae2b9f371dbe1c.asset"
   },
@@ -801,7 +801,7 @@
     "type": "application/wasm",
     "bytes": 1589584,
     "sha256": "af5641d71a597dbadf9d8cbfa8a6e3aafc7be790dc3157a8914e10e895c0b613",
-    "source": "https://cdn.jsdelivr.net/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.wasm",
+    "source": "https://cdn.statically.io/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.wasm",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/6e63209ed089cff0261045ea49c2f86490fc2850705bd62f02c49eb8ad702743.asset"
   },
@@ -810,7 +810,7 @@
     "type": "application/wasm",
     "bytes": 30999457,
     "sha256": "5634681484d9b7dd115a01f5671400014e1ef9817f694cebf2c3fcffa4995362",
-    "source": "https://cdn.jsdelivr.net/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/sd.wasm.js",
+    "source": "https://cdn.statically.io/gh/Ieoldj-hs101082/Koans@03568ae5309942037071f3e50daf892ae3539c31/logic/sd.wasm.js",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/1a81b4865b3cd146133b7c48d39897767a0251323dec3938113567804878e1f7.asset"
   },
@@ -819,7 +819,7 @@
     "type": "application/wasm",
     "bytes": 13785052,
     "sha256": "eb3bb9fa53638e84cb73a91d79f03f3eda141c343fe1bf227c592c8ae66327fd",
-    "source": "https://cdn.jsdelivr.net/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.side.wasm.part1",
+    "source": "https://cdn.statically.io/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.side.wasm.part1",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7a752154d7fb0531036d0a6cbcb62b2a4a088d3415ba162df14c670e9362da2f.asset"
   },
@@ -828,7 +828,7 @@
     "type": "application/octet-stream",
     "bytes": 13785052,
     "sha256": "1ce986a40a457b7b03c7631b44a3402795692b68cc29c1dceb20a093fb66bd3d",
-    "source": "https://cdn.jsdelivr.net/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.side.wasm.part2",
+    "source": "https://cdn.statically.io/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.side.wasm.part2",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/b0ea21d064a42578890c7f65b6f83ed3187ee8968335689025118ef1f5011138.asset"
   },
@@ -837,7 +837,7 @@
     "type": "application/octet-stream",
     "bytes": 13785051,
     "sha256": "80a4b579dbed4bc6c1ef535914d4b395eb01b1e3d704863f812af72952a0dc6d",
-    "source": "https://cdn.jsdelivr.net/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.side.wasm.part3",
+    "source": "https://cdn.statically.io/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.side.wasm.part3",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/966f1979fa22d114ac3b12b6a8310f377252e573bc7f86e1372bacb71d096fb3.asset"
   },
@@ -846,7 +846,7 @@
     "type": "application/wasm",
     "bytes": 2238630,
     "sha256": "8bb2b9dd4927465ae46f455116b8bf4b0d10bbbd23eaad90ff50a3cbca209640",
-    "source": "https://cdn.jsdelivr.net/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/libsentry.web.release.wasm32.nothreads.wasm",
+    "source": "https://cdn.statically.io/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/libsentry.web.release.wasm32.nothreads.wasm",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/024bf4805b395e14c7c48359972599c39af9a93037b2943a935a1aee6901f284.asset"
   },
@@ -855,7 +855,7 @@
     "type": "application/octet-stream",
     "bytes": 18377782,
     "sha256": "7427cc8e8c4d24441e36b6f00ea9dc32c55a06588f0ea8ff770af94b9d01e38e",
-    "source": "https://cdn.jsdelivr.net/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.pck.part1",
+    "source": "https://cdn.statically.io/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.pck.part1",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/a3d364989e1ccca5c277688332e09820cf85ebb57a3ef224fa927da9fc9b59f9.asset"
   },
@@ -864,7 +864,7 @@
     "type": "application/octet-stream",
     "bytes": 18377782,
     "sha256": "c5c92c06fc9279352a27b58980b7920703bd86b6dff289f31dd5081d46ae1709",
-    "source": "https://cdn.jsdelivr.net/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.pck.part2",
+    "source": "https://cdn.statically.io/gh/shayderrr/new@206c998cd5a35e4a5ae132f132e3cd5292e5328c/13820450-1489126/index.pck.part2",
     "decoded": false,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/d3f090cb261d500098188be2d43986d3c145ca79885332f169d20136972f2564.asset"
   },
@@ -873,7 +873,7 @@
     "type": "application/octet-stream",
     "bytes": 5433036,
     "sha256": "63296a48c2fee1a72c7bd9d0b7b3f5ffaac465a7463f7124f010abc5835cfad6",
-    "source": "https://cdn.jsdelivr.net/gh/galaxyking16/d@main/gs/Build/864872d3e8c17c58e54028c101dae7a5.data.br",
+    "source": "https://cdn.statically.io/gh/galaxyking16/d@main/gs/Build/864872d3e8c17c58e54028c101dae7a5.data.br",
     "decoded": true,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/7c890a240aa61c5d6c96d9013a53e3262e76c6f5452cc64de47ff3378e4c3d6b.asset"
   },
@@ -882,7 +882,7 @@
     "type": "application/octet-stream",
     "bytes": 18274091,
     "sha256": "5ae2091ccd77452a1ebff49663df1bfe93e02dfcdc60d1f8db648eda38fc1ee1",
-    "source": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/they-are-coming/Build/zombieshooterdone.data.br",
+    "source": "https://cdn.statically.io/gh/bubbls/UGS-Assets@main/they-are-coming/Build/zombieshooterdone.data.br",
     "decoded": true,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/98eaa183cd7b55b69532e9f5605af650fec48184c470cd18df8ab1b58dfecb6f.asset"
   },
@@ -891,7 +891,7 @@
     "type": "application/wasm",
     "bytes": 38111960,
     "sha256": "b19dc7bf09a3f45d3acdefe2bee041b739861bb40b7dc092347d8565874c1d4f",
-    "source": "https://cdn.jsdelivr.net/gh/freebuisness/assets@main/game-recovery/they-are-coming.wasm",
+    "source": "https://cdn.statically.io/gh/freebuisness/assets@main/game-recovery/they-are-coming.wasm",
     "decoded": true,
     "url": "https://raw.githubusercontent.com/freebuisness/assets/main/game-recovery/e32b15b01da98fd1055cb90840308d32e8ccb9016cf97bf7d3b9bb23eb5b925d.asset"
   },
